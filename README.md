@@ -43,11 +43,15 @@ To reproduce the results of our project:
 5) Run Pinterest ML Model.ipynb to get a visualization of the importance of each YUV feature (Feature Importance.png) and principle component analysis visualization (PCA.png) to show the distributions of the two datasets
 
 ## References
-include links to pinterest boards
-# Pinterest-Image-Data-Ashley-Pallavi-Harley
-
-https://scikit-learn.org/1.5/auto_examples/ensemble/plot_forest_importances.html
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-https://365datascience.com/tutorials/python-tutorials/pca-k-means/
-https://www.pinterest.com/pallavivemuri24/cool-tone-makeup/
-https://www.pinterest.com/pallavivemuri24/warm-tone-makeup/
+- [1] Pinterest, “All about Pinterest,” Pinterest help, 2024. https://help.pinterest.com/en/guide/all-a
+bout-pinterest
+- [2] NPM, “Get Average Color,” NPMJS, 2022.https://www.npmjs.com/package/get-average-color
+- [3] Interaction Design Foundation, “What Is Color Theory?,” The Interaction Design Foundation, 2008. https://www.interaction-design.org/literature/topics/color-theory
+- [4]H. Van Braam, “Warm and Cool Colors: What Are They, How They Are Used & Psychology,” Color Psychology, Sep. 18, 2018. https://www.colorpsychology.org/warm-cool-colors/
+- [5] Converting Colors, “Color Convertor,” 2022. https://convertingcolors.com/yuv-color-120.8870_117.6907_141.5738.html?search=YUV(%20120.88702644,%20117.69073225,%20141.57376504)
+- [6]“Feature importances with a forest of trees,” scikit-learn, 2024. https://scikit-learn.org/1.5/auto_examples/ensemble/plot_forest_importances.html
+‌- [7]“sklearn.ensemble.RandomForestClassifier — scikit-learn 0.20.3 documentation,” Scikit-learn.org, 2018. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+- [8]E. Kaloyanova, “How to Combine PCA and K-means Clustering in Python?,” 365 Data Science, Mar. 10, 2020. https://365datascience.com/tutorials/python-tutorials/pca-k-means/
+‌‌- [9]Pinterest.com, 2024. https://www.pinterest.com/pallavivemuri24/cool-tone-makeup/ (accessed Nov. 18, 2024).
+‌- [10]Pinterest, 2024. https://www.pinterest.com/pallavivemuri24/warm-tone-makeup/ (accessed Nov. 18, 2024).
+‌
