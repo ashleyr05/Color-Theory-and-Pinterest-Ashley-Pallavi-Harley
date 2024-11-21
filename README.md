@@ -12,15 +12,22 @@ There is a SCRIPTS folder that contains all of the source code files for our pro
   Visual Studio Code
   
 ### Packages installed
-  Python, Jupyter, Pandas, Seaborn, Matplotlib, Numpy
+  Python, Jupyter, Pandas, Seaborn, Matplotlib, Numpy, PIL, io, sklearn
 ### Platforms
   Windows and Mac
 
 ## Map of Documentation
 ### DATA Folder
 - cooltonee.csv
+- DataAppendix.pdf
 - warmtone.csv
 ### OUTPUT Folder
+- Cool Tone Boxplot.png
+- Cool Tone Histogram.png
+- Feature Importance.png
+- PCA.png
+- Warm Tone Boxplot.png
+- Warm Tone Histogram.png
 
 ### SCRIPTS Folder
 - Cool Tone Code.ipynb
