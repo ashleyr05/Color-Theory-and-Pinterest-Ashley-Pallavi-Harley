@@ -24,6 +24,7 @@ There is a SCRIPTS folder that contains all of the source code files for our pro
 ### OUTPUT Folder
 - Cool Tone Boxplot.png
 - Cool Tone Histogram.png
+- confidence_scores.png
 - Feature Importance.png
 - PCA.png
 - Warm Tone Boxplot.png
@@ -35,6 +36,8 @@ There is a SCRIPTS folder that contains all of the source code files for our pro
 - Warm Tone Code.ipynb
 
 ### LICENSE.md File
+
+### MI4-Project 3-Group16.pdf
 
 ### README.md File
 
